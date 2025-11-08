@@ -1,6 +1,6 @@
 cff-version: 1.2.0
 message: If you use this code, please cite the following paper.
-title: PIMM-for-AM
+title: Physics-Informed Mixture Models and Surrogate Models for Precision Additive Manufacturing
 authors:
 - given-names: Sebastian
   family-names: Basterrech
@@ -10,14 +10,14 @@ authors:
   family-names: Adhikari
 - given-names: Sankhya
   family-names: Mohanty
-date-released: '2025-01-01'
+date-released: '2025-11-9'
 version: 1.0.0
 repository-code: https://github.com/your-username/PIMM-for-AM
 url: https://arxiv.org/pdf/2510.26586
 type: software
-abstract: This repository provides an example of using Gaussian Mixture Models (GMMs)
+abstract: This repository shows an application of Gaussian Mixture Models 
   to detect defects in Additive Manufacturing processes, specifically in the context
-  of Laser Powder Bed Fusion (L-PBF) technology.
+  of Laser Powder Bed Fusion technology.
 conference:
   name: Artificial Intelligence for Science
   location: Copenhagen
