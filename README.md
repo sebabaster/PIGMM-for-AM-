@@ -10,7 +10,5 @@ This code is licensed under the MIT License.
 
 If you use this code in your research, please cite the following paper:
 
-**Sebastian Basterrech, Shuo Shan, Debabrata Adhikari, and Sankhya Mohanty.**  
-*Physics-Informed Mixture Models and Surrogate Models for Precision Additive Manufacturing*.  
-**Artificial Intelligence for Science**, Copenhagen, 2025.  
+Sebastian Basterrech, Shuo Shan, Debabrata Adhikari, and Sankhya Mohanty, "Physics-Informed Mixture Models and Surrogate Models for Precision Additive Manufacturing, " Artificial Intelligence for Science, Copenhagen, 2025. URL: https://arxiv.org/pdf/2510.26586
 
